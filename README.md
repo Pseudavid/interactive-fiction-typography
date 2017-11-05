@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Interactive fiction typography
 
-You can use the [editor on GitHub](https://github.com/Pseudavid/interactive-fiction-typography/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Much interactive fiction (AKA text-based games) nowadays is web-based, created with web oriented tools like [Twine](http://twinery.org). This page is a list of some resources I have found to potentially use in interactive fiction to **improve typography and create text effects.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Javascript stuff
 
-### Markdown
+### [textillate](https://github.com/jschr/textillate)
+A jquery plugin for CSS3 text animations. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [dropcap.js](https://github.com/adobe-webplatform/dropcap.js)
+Beautiful CSS drop caps made easy 
 
-```markdown
-Syntax highlighted code block
+### [Lettering.js](https://github.com/davatron5000/Lettering.js)
+A lightweight, easy to use Javascript <span> injector for radical Web Typography 
 
-# Header 1
-## Header 2
-### Header 3
+### [kerning.js](https://github.com/endtwist/kerning.js)
+Take control of your web typography. 
 
-- Bulleted
-- List
+### [shine.js](https://github.com/bigspaceship/shine.js)
+A library for pretty shadows. 
 
-1. Numbered
-2. List
+### [FlowType.JS](https://github.com/simplefocus/FlowType.JS)
+Web typography at its finest: font-size and line-height based on element width. 
 
-**Bold** and _Italic_ and `Code` text
+### [baffle](https://github.com/camwiegert/baffle)
+A tiny javascript library for obfuscating and revealing text in DOM elements. 😲
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pseudavid/interactive-fiction-typography/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
