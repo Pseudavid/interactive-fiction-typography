@@ -4,24 +4,23 @@ Much interactive fiction (AKA text-based games) nowadays is web-based, created w
 
 ## Javascript stuff
 
-### [textillate](https://github.com/jschr/textillate)
-A jquery plugin for CSS3 text animations. 
+### [baffle](https://github.com/camwiegert/baffle)
+A tiny javascript library for obfuscating and revealing text in DOM elements. 😲
 
 ### [dropcap.js](https://github.com/adobe-webplatform/dropcap.js)
 Beautiful CSS drop caps made easy 
 
-### [Lettering.js](https://github.com/davatron5000/Lettering.js)
-A lightweight, easy to use Javascript <span> injector for radical Web Typography 
+### [FlowType.JS](https://github.com/simplefocus/FlowType.JS)
+Web typography at its finest: font-size and line-height based on element width. 
 
 ### [kerning.js](https://github.com/endtwist/kerning.js)
 Take control of your web typography. 
 
+### [Lettering.js](https://github.com/davatron5000/Lettering.js)
+A lightweight, easy to use Javascript <span> injector for radical Web Typography 
+
 ### [shine.js](https://github.com/bigspaceship/shine.js)
 A library for pretty shadows. 
 
-### [FlowType.JS](https://github.com/simplefocus/FlowType.JS)
-Web typography at its finest: font-size and line-height based on element width. 
-
-### [baffle](https://github.com/camwiegert/baffle)
-A tiny javascript library for obfuscating and revealing text in DOM elements. 😲
-
+### [textillate](https://github.com/jschr/textillate)
+A jquery plugin for CSS3 text animations. 
