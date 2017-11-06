@@ -19,6 +19,9 @@ Beautiful CSS drop caps made easy
 ### [FlowType.JS](https://github.com/simplefocus/FlowType.JS)
 Web typography at its finest: font-size and line-height based on element width. 
 
+### [funnyText.js](https://github.com/alvarotrigo/funnyText.js)
+Create funny and crazy moving texts in a simple way.
+
 ### [kerning.js](https://github.com/endtwist/kerning.js)
 Take control of your web typography. 
 
