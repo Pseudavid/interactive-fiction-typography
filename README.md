@@ -46,3 +46,6 @@ Typebase.css is a minimal, customizable typography stylesheet.
 
 ### [Typeplate](http://typeplate.com/)
 Typeplate is a “typographic starter kit”. We don’t make aesthetic design choices, but define proper markup with extensible styling for common typographic patterns. 
+
+### [Animista](http://animista.net)
+Animista is a place where you can play with a collection of pre-made CSS animations, tweak them and get only those you will actually use.
