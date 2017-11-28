@@ -36,7 +36,7 @@ A jquery plugin for CSS3 text animations.
 
 ---
 
-## CCS thingies
+## CSS thingies
 
 ### [Gutenberg](https://matejlatin.github.io/Gutenberg/)
 Gutenberg is a flexible and simple-to-use web typography starter kit for web designers and developers. 
@@ -49,3 +49,12 @@ Typeplate is a “typographic starter kit”. We don’t make aesthetic design c
 
 ### [Animista](http://animista.net)
 Animista is a place where you can play with a collection of pre-made CSS animations, tweak them and get only those you will actually use.
+
+---
+
+## Tutorials
+
+### [A-Z of Web Typography](https://webdesign.tutsplus.com/series/a-z-of-web-typography--webdesign-11706)
+A series of 11 tutorials.
+
+### [50 top typography tutorials](http://www.creativebloq.com/graphic-design-tips/typography-tutorials-1232719)
