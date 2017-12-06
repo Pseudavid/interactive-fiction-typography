@@ -10,6 +10,9 @@ While CSS3 allows us to rotate letters, it is quite complicated to arrange each 
 ### [baffle](https://github.com/camwiegert/baffle)
 A tiny javascript library for obfuscating and revealing text in DOM elements. 😲
 
+### [Blast.js](http://velocityjs.org/blast/)
+Blast.js separates text in order to facilitate typographic manipulation. It has four delimiters built in: character, word, sentence, and element. 
+
 ### [CircleType](https://github.com/peterhry/CircleType)
 A JavaScript library that lets you curve type on the web.
 
