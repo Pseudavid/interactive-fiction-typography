@@ -56,6 +56,9 @@ Animista is a place where you can play with a collection of pre-made CSS animati
 ### [Colors.css](https://github.com/mrmrs/colors)
 Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.
 
+### [Utility Opentype](https://github.com/kennethormandy/utility-opentype)
+Simple, CSS utility classes for advanced typographic features.
+
 ---
 
 ## Tutorials
