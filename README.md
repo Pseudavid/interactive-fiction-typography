@@ -53,6 +53,9 @@ Typeplate is a “typographic starter kit”. We don’t make aesthetic design c
 ### [Animista](http://animista.net)
 Animista is a place where you can play with a collection of pre-made CSS animations, tweak them and get only those you will actually use.
 
+### [Colors.css](https://github.com/mrmrs/colors)
+Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.
+
 ---
 
 ## Tutorials
