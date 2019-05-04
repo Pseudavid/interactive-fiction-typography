@@ -37,6 +37,9 @@ A library for pretty shadows.
 ### [textillate](https://github.com/jschr/textillate)
 A jquery plugin for CSS3 text animations. 
 
+### [Typetura](https://typetura.com)
+A tool and JS plugin to implement fluid typography (continuous and smooth font size adjustment for any viewport size, not just break points.
+
 ---
 
 ## CSS thingies
@@ -58,6 +61,9 @@ Better default colors for the web. A collection of skin classes for faster proto
 
 ### [Utility Opentype](https://github.com/kennethormandy/utility-opentype)
 Simple, CSS utility classes for advanced typographic features.
+
+### [Variable fonts](https://v-fonts.com/)
+Variable fonts can gradually change a characteristic (for example, weight) along a continuous "axis of variation".
 
 ---
 
