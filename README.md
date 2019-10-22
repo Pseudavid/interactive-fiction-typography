@@ -37,9 +37,6 @@ A library for pretty shadows.
 ### [textillate](https://github.com/jschr/textillate)
 A jquery plugin for CSS3 text animations. 
 
-### [Typetura](https://typetura.com)
-A tool and JS plugin to implement fluid typography (continuous and smooth font size adjustment for any viewport size, not just break points.
-
 ---
 
 ## CSS thingies
