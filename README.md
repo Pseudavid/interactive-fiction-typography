@@ -70,3 +70,19 @@ Variable fonts can gradually change a characteristic (for example, weight) along
 A series of 11 tutorials.
 
 ### [50 top typography tutorials](http://www.creativebloq.com/graphic-design-tips/typography-tutorials-1232719)
+
+---
+
+## Examples, codepens, etc.
+
+### [Title effect](https://codepen.io/sschepis/pen/uiHmr)
+Text that moves, gets narrower and more focused.
+
+### [Title shadow](https://codepen.io/dariocorsi/pen/jqxERJ)
+Long and beautiful text shadow.
+
+### [Text mask background](https://codepen.io/dghez/pen/ItxKE)
+Transparent text that reveals a background image, and that image moves with the mouse.
+
+### [Text with animated gif](https://codepen.io/Moslim/pen/zwJPgL)
+Transparent text that reveals an animated gif.
