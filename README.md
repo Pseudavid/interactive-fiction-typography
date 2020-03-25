@@ -37,6 +37,10 @@ A library for pretty shadows.
 ### [textillate](https://github.com/jschr/textillate)
 A jquery plugin for CSS3 text animations. 
 
+### [text-animate](https://github.com/mreinstein/text-animate)
+✍ beautiful, animated, HTML typographic UI effects
+
+
 ---
 
 ## CSS thingies
